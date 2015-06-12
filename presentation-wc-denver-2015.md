@@ -177,6 +177,14 @@
 
 ---
 
+# Coming Soon
+
+^ From this same platform I said, "huh I wonder how hard it is to create a video course. I've written dozens of WooCommerce articles and a book. How hard could it be?"
+
+^ I contacted a really popular video company shared my site and my book and they said yes. So in the next month or two I'll be able to share some new WooCommerce training via video.
+
+---
+
 # Problems
 
 ^ let's go back to those problems. No one knowing you, you have lots of great ideas but can't seem to remember them when you need them,  having no authority if they do know you.
