@@ -4,11 +4,15 @@
 ### Patrick Rauland
 ### @BFTrick
 
+^ Thanks for staying with me to the very end of the day. You might be feeling tired right now BUT what I've done is decided that conferences are like concerts and the best speakers are at the very end of the day.
+
 ---
 
 # Problem: Being *Unknown*
 
-^ You could be the foremost expert in your field but if people don't know you exist it doesn't matter.
+^ You could be the foremost expert in your field.
+
+^ If people don't know you exist it doesn't matter.
 
 ^ Wouldn't it be great if there was a way people could find you online?
 
@@ -215,9 +219,9 @@
 
 ^ some of my "throw away" posts, the posts that I didn't really like but decided to publish anyway because I couldn't figure out how to make it better are some of my best posts
 
-^ TODO screenshot of why I use a macbook air for web development
+^ I have a post called "why I use a macbook air for web development"
 
-^ I just XXXX visits a month from that post
+^ I just 1,000 visits a month from that post which has worked out to about 20,000 visits over the life of the post. I almost didn't publish the post and could have lost out on all of that traffic.
 
 ---
 
@@ -229,11 +233,42 @@
 
 ---
 
+> "What gets measured
+gets managed"
+-- Peter Drucker
+
+^ measurement is a blessing and a curse.
+
+^ I know a lot of people who spend a whole bunch of effort figuring out exactly how many people are searching for a specific term and creating a blog post for just that audience. And then they measure how many people come to the site and click on certain things and what the ROI is.
+
+^ Writing is a long game and it's really hard to measure. In fact the publisher reached out to me based on word of mouth. Someone who read my blog and recommended me. That's not something you can measure so be really cautious about obsessing over metrics.
+
+^ So I want to change this:
+
+---
+
+> Measure - but don't obsess
+
+^ this leads perfectly into my next point:
+
+---
+
 # Forget SEO
 
 ^ Don't worry about SEO. Write good content first. If people link to it it will be found in search engines.
 
 ^ Once you get 100,000 people a month then you can spend time tinkering with SEO.
+
+---
+
+![left](assets/images/phoenix.jpg)
+
+# Patrick Rauland
+
+## WooCommerce Product Manager
+## at WooThemes
+
+## @BFTrick
 
 ---
 
