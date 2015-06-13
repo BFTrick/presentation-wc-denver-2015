@@ -131,7 +131,7 @@
 
 ---
 
-# Get Published
+# Get *Published*
 
 ---
 
@@ -192,6 +192,22 @@
 ^ all of these can be solved with a blog.
 
 ^ an hour a day, an hour a week, an hour a month, or an hour a year. It all adds up eventually.
+
+---
+
+![fit](assets/images/analytics.png)
+
+^ I never showed my stats and I think it's worth a quick look just for reference.
+
+^ Started in July 2012.
+
+^ Didn't get 1,000 monthly visitors until October 2013 (15 months later)
+
+^ Didn't get 10,000 monthly visitors October 2014 (12 months)
+
+^ 250,000 unique visitors over the lifetime
+
+^ Writing content and building a following is the long game. There isn't anything quick or easy about this. It takes endurance.
 
 ---
 
