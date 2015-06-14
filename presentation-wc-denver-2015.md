@@ -6,6 +6,8 @@
 
 ^ Thanks for staying with me to the very end of the day. You might be feeling tired right now BUT what I've done is decided that conferences are like concerts and the best speakers are at the very end of the day.
 
+^ I should have just tweeted out the link to the presentation.
+
 ---
 
 # Problem: Being *Unknown*
@@ -30,7 +32,7 @@
 
 ^ For many people this strategy is great. But for some they want to have a massive launch and they just want me to build the site right now. That's great but I don't want to be their web developer. I want to build long term relationships with clients and those clients are the ones that think about where they're going to get traffic. They're not the ones who just 'ship it' and hope for the best.
 
-^ Everytime I run avoid one of these people it saves me time.
+^ Every time I run avoid one of these people it saves me time.
 
 ^ Wouldn't it be great if there was a way you could publish articles that share your expertise with the world?
 
